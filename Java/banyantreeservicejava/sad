@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Results>
+    <Row>
+        <id>1</id>
+        <nom>Toalla</nom>
+        <mides>50cmx50cm</mides>
+        <descripcio>color blanc</descripcio>
+        <preu>15.8</preu>
+        <eliminat>true</eliminat>
+        <unitat>unidad</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 10:48:31.0</created_at>
+        <updated_at>2021-05-17 13:43:35.0</updated_at>
+    </Row>
+    <Row>
+        <id>2</id>
+        <nom>Sabana</nom>
+        <mides>2mx2m</mides>
+        <descripcio>color blanc</descripcio>
+        <preu>8.8</preu>
+        <eliminat>true</eliminat>
+        <unitat>unidad</unitat>
+        <categoria>Sábanas</categoria>
+        <created_at>2021-05-14 10:48:31.0</created_at>
+        <updated_at>2021-05-14 16:32:56.0</updated_at>
+    </Row>
+    <Row>
+        <id>3</id>
+        <nom>Trapos</nom>
+        <mides>10x10</mides>
+        <descripcio>color blanc</descripcio>
+        <preu>6.2</preu>
+        <eliminat>false</eliminat>
+        <unitat>cajas de 10 kilos</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 10:48:31.0</created_at>
+        <updated_at>2021-05-17 13:59:29.0</updated_at>
+    </Row>
+    <Row>
+        <id>4</id>
+        <nom>sda</nom>
+        <mides>sad</mides>
+        <descripcio>sad</descripcio>
+        <preu>0.04</preu>
+        <eliminat>true</eliminat>
+        <unitat>asd</unitat>
+        <categoria>Sábanas</categoria>
+        <created_at>2021-05-14 13:21:10.0</created_at>
+        <updated_at>2021-05-18 14:00:56.0</updated_at>
+    </Row>
+    <Row>
+        <id>5</id>
+        <nom>Toallasds</nom>
+        <mides>qwe</mides>
+        <descripcio>qwe</descripcio>
+        <preu>0.01</preu>
+        <eliminat>false</eliminat>
+        <unitat>qwe</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 13:48:51.0</created_at>
+        <updated_at>2021-05-17 13:59:38.0</updated_at>
+    </Row>
+    <Row>
+        <id>6</id>
+        <nom>sdaf</nom>
+        <mides>sad</mides>
+        <descripcio>sadf</descripcio>
+        <preu>12.0</preu>
+        <eliminat>false</eliminat>
+        <unitat>12</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 16:36:49.0</created_at>
+        <updated_at>2021-05-17 13:59:42.0</updated_at>
+    </Row>
+    <Row>
+        <id>7</id>
+        <nom>asd</nom>
+        <mides>sad</mides>
+        <descripcio>sad</descripcio>
+        <preu>12.0</preu>
+        <eliminat>false</eliminat>
+        <unitat>sda</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 16:37:56.0</created_at>
+        <updated_at>2021-05-17 13:37:52.0</updated_at>
+    </Row>
+    <Row>
+        <id>8</id>
+        <nom>dsasadaf sgvfcssaac</nom>
+        <mides>2mx2m</mides>
+        <descripcio>asd</descripcio>
+        <preu>12.0</preu>
+        <eliminat>false</eliminat>
+        <unitat>sda</unitat>
+        <categoria>Textil para la limpieza</categoria>
+        <created_at>2021-05-14 16:39:45.0</created_at>
+        <updated_at>2021-05-17 13:37:51.0</updated_at>
+    </Row>
+</Results>

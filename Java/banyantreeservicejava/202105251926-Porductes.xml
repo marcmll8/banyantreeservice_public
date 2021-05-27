@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Productes>
+    <Producte>
+        <id>5</id>
+        <nom>Toallasds</nom>
+        <mides>qwe</mides>
+        <descripcio>qwe</descripcio>
+        <preu>0.01</preu>
+        <eliminat>false</eliminat>
+        <unitat>qwe</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 13:48:51.0</created_at>
+        <updated_at>2021-05-24 15:17:05.0</updated_at>
+        <Disponibilitat>
+            <quantitat_total>3</quantitat_total>
+            <quantitat_venuda>1</quantitat_venuda>
+        </Disponibilitat>
+    </Producte>
+    <Producte>
+        <id>4</id>
+        <nom>sda</nom>
+        <mides>sad</mides>
+        <descripcio>sad</descripcio>
+        <preu>0.04</preu>
+        <eliminat>false</eliminat>
+        <unitat>asd</unitat>
+        <categoria>Sábanas</categoria>
+        <created_at>2021-05-14 13:21:10.0</created_at>
+        <updated_at>2021-05-18 14:00:56.0</updated_at>
+        <Disponibilitat>
+            <quantitat_total>12</quantitat_total>
+            <quantitat_venuda>0</quantitat_venuda>
+        </Disponibilitat>
+    </Producte>
+    <Producte>
+        <id>3</id>
+        <nom>Trapos</nom>
+        <mides>10x10</mides>
+        <descripcio>color blanc</descripcio>
+        <preu>6.2</preu>
+        <eliminat>false</eliminat>
+        <unitat>cajas de 10 kilos</unitat>
+        <categoria>Trapos</categoria>
+        <created_at>2021-05-14 10:48:31.0</created_at>
+        <updated_at>2021-05-24 15:08:59.0</updated_at>
+        <Disponibilitat>
+            <quantitat_total>1221</quantitat_total>
+            <quantitat_venuda>44</quantitat_venuda>
+        </Disponibilitat>
+    </Producte>
+    <Producte>
+        <id>7</id>
+        <nom>asd</nom>
+        <mides>sad</mides>
+        <descripcio>sad</descripcio>
+        <preu>12.0</preu>
+        <eliminat>false</eliminat>
+        <unitat>sda</unitat>
+        <categoria>Toallas</categoria>
+        <created_at>2021-05-14 16:37:56.0</created_at>
+        <updated_at>2021-05-24 15:15:04.0</updated_at>
+        <Disponibilitat>
+            <quantitat_total>21</quantitat_total>
+            <quantitat_venuda>8</quantitat_venuda>
+        </Disponibilitat>
+    </Producte>
+    <Producte>
+        <id>8</id>
+        <nom>dsasada fsgvfcssaac</nom>
+        <mides>2mx2m</mides>
+        <descripcio>asd</descripcio>
+        <preu>12.0</preu>
+        <eliminat>false</eliminat>
+        <unitat>sda</unitat>
+        <categoria>Textil para la limpieza</categoria>
+        <created_at>2021-05-14 16:39:45.0</created_at>
+        <updated_at>2021-05-24 15:15:02.0</updated_at>
+        <Disponibilitat>
+            <quantitat_total>12</quantitat_total>
+            <quantitat_venuda>10</quantitat_venuda>
+        </Disponibilitat>
+    </Producte>
+</Productes>

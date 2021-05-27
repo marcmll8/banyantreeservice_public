@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Comandes>
+    <Comanda>
+        <id>1</id>
+        <name>admin</name>
+        <Linies_Comanda>
+            <Linia_comanda>
+                <producte_nom>Sabana</producte_nom>
+                <producte_descripcio>color blanc</producte_descripcio>
+                <producte_mides>2mx2m</producte_mides>
+                <producte_preu>114.4</producte_preu>
+                <quantitat>13</quantitat>
+                <unitat>unidad</unitat>
+                <producte_id>2</producte_id>
+            </Linia_comanda>
+            <Linia_comanda>
+                <producte_nom>dsdf</producte_nom>
+                <producte_descripcio>sdf</producte_descripcio>
+                <producte_mides>wsfdvc</producte_mides>
+                <producte_preu>2.0</producte_preu>
+                <quantitat>1</quantitat>
+                <unitat>sdf</unitat>
+                <producte_id>4</producte_id>
+            </Linia_comanda>
+        </Linies_Comanda>
+    </Comanda>
+    <Comanda>
+        <id>2</id>
+        <name>admin</name>
+        <Linies_Comanda>
+            <Linia_comanda>
+                <producte_nom>Sabana</producte_nom>
+                <producte_descripcio>color blanc</producte_descripcio>
+                <producte_mides>2mx2m</producte_mides>
+                <producte_preu>105.6</producte_preu>
+                <quantitat>12</quantitat>
+                <unitat>unidad</unitat>
+                <producte_id>2</producte_id>
+            </Linia_comanda>
+        </Linies_Comanda>
+    </Comanda>
+    <Comanda>
+        <id>3</id>
+        <name>admin</name>
+        <Linies_Comanda>
+            <Linia_comanda>
+                <producte_nom>Sabana</producte_nom>
+                <producte_descripcio>color blanc</producte_descripcio>
+                <producte_mides>2mx2m</producte_mides>
+                <producte_preu>26.4</producte_preu>
+                <quantitat>3</quantitat>
+                <unitat>unidad</unitat>
+                <producte_id>2</producte_id>
+            </Linia_comanda>
+            <Linia_comanda>
+                <producte_nom>dsasadaf sgvfcssaac</producte_nom>
+                <producte_descripcio>asd</producte_descripcio>
+                <producte_mides>2mx2m</producte_mides>
+                <producte_preu>108.0</producte_preu>
+                <quantitat>9</quantitat>
+                <unitat>sda</unitat>
+                <producte_id>8</producte_id>
+            </Linia_comanda>
+        </Linies_Comanda>
+    </Comanda>
+</Comandes>
